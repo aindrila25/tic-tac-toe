@@ -23,6 +23,10 @@ A beautifully designed, responsive Tic Tac Toe game built with HTML, CSS, and Ja
 
 It's that simple! No build process or special setup required.
 
+OR
+
+[Click here](https://aindrila25.github.io/tic-tac-toe/) to play right away 🔥🔥
+
 ## 🕹️ How to Play
 
 1. The game starts with Player X.
